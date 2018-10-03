@@ -1,0 +1,19 @@
+.w-380{
+  width: 370px;
+  max-width: 380px;
+}
+
+
+.h-540{
+  max-height: 520px !important;
+}
+
+.min-h-110{
+  min-height: 110px !important;
+}
+
+
+.header-area .top-header-area .top-header-content .logo a {
+  margin-top: 20px;
+  width: 57%;
+}
